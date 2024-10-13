@@ -1,5 +1,5 @@
 ---
-title: "gonna check how long it takes"
+title: "gonna"
 listing:
   contents: posts
   sort: "date desc"
