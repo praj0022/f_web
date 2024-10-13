@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "webtry"
+  title: "is it dynamic"
   navbar:
     right:
       - about.qmd
