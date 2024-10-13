@@ -1,5 +1,5 @@
 ---
-title: "webtry"
+title: "gonna check how long it takes"
 listing:
   contents: posts
   sort: "date desc"
